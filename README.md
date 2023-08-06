@@ -1,6 +1,6 @@
-#A golang discord bot which rags someone.
+<h1>A golang discord bot to rag.</h1>
 <hr>
-This bot is made with a discord api wrapper by `https://github.com/bwmarrin/discordgo`.<br>
+This bot is made with a discord api wrapper by ``` https://github.com/bwmarrin/discordgo ``` .<br>
 This bot uses a postgresql db to fetch slangs randomly also slang add feature.
 <hr>
 #To be edited:
